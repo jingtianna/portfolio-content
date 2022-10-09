@@ -1,3 +1,7 @@
+body {
+    background-image: linear-gradient(to bottom right, pink, powderblue);;
+}
+
 .active{
     color: plum;
 }
@@ -163,9 +167,6 @@ div{
 }
 
 @media screen and (min-width: 375px) {
-    body {
-        background-color: green;
-    }
     
     nav > ul {
         display: grid;
@@ -188,10 +189,7 @@ div{
 }
     
 @media screen and (min-width: 800px) {
-    
-    body {
-        background-color: yellow;
-    }
+
         
     nav > ul {
         display: grid;
