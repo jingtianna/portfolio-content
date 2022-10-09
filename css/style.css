@@ -14,7 +14,7 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
-    background-color: peachpuff;
+    background-color: black;
     border: 1px solid black;
 }
 
@@ -177,7 +177,7 @@ div{
         justify-content: center;
         justify-items: center;
         list-style-type: none;
-        background-color: palevioletred;
+        background-color: black;
         margin: 10px;
         padding:10px;
         grid-row-gap: 5px;
@@ -198,7 +198,7 @@ div{
         justify-content: center;
         justify-items: center;
         list-style-type: none;
-        background-color: palevioletred;
+        background-color: black;
         margin: 10px;
         padding:10px;
     }
