@@ -106,25 +106,25 @@ div{
 }
 
 .square {
-    width: 300px auto;
-    height: 300px auto;
-    padding: 10px auto;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
     margin: 5px;
     border: none;
 }
 
 .rectangle {
-    width: 380px auto;
-    height: 300px auto;
-    padding: 10px auto;
+    width: 380px;
+    height: 300px;
+    padding: 10px;
     margin: 5px;
     border: none;
 }
 
 .vertical {
-    width: 300px auto;
-    height: 400px auto;
-    padding: 10px auto;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
     margin: 5px;
     border: none;
 }
